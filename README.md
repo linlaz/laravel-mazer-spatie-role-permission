@@ -1,22 +1,18 @@
 
-# BEM FMIPA UNESA
-
-applikasi berbasis web untuk keperluan BEM FMIPA UNESA
-
-
+# LARAVEL MAZER WITH SPATIE ROLE AND PERMISSION
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/linlaz/bemf_unesa.git
+  git clone [https://github.com/linlaz/bemf_unesa.git](https://github.com/linlaz/laravel-mazer-spatie-role-permission.git) laravel-mazer
 ```
 
 Go to the project directory
 
 ```bash
-  cd bemf_unesa
+  cd laravel-mazer
 ```
 
 Install dependencies composer and nodejs
@@ -45,3 +41,7 @@ Run in locally must php and nodejs
 ```bash
   npm run dev
 ```
+To /login
+email : superadmin@gmail.com
+password : password
+
