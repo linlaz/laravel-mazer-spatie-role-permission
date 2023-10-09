@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone [https://github.com/linlaz/bemf_unesa.git](https://github.com/linlaz/laravel-mazer-spatie-role-permission.git) laravel-mazer
+  git clone https://github.com/linlaz/laravel-mazer-spatie-role-permission.git laravel-mazer
 ```
 
 Go to the project directory
