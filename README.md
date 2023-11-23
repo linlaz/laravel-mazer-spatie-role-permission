@@ -12,7 +12,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd laravel-mazer
+  cd laravel-mazer && rm -rf .git
 ```
 
 Install dependencies composer and nodejs
